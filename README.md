@@ -32,8 +32,11 @@
 #### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Mail
 #### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Informe interno
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### Flujos de datos ![icons8-flecha](https://github.com/agustinphx/analisis_sistemas/assets/58674979/31062369-5beb-4c77-893a-43dee64713d7) ![icons8-proceso](https://github.com/agustinphx/analisis_sistemas/assets/58674979/2c8133ef-8262-4914-b4c4-3e2eaf9b8eff)  ![icons8-flecha](https://github.com/agustinphx/analisis_sistemas/assets/58674979/31062369-5beb-4c77-893a-43dee64713d7)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 ### Entradas
 #### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e)   Información de todas las bebidas. 
 #### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e)   Pedido de compra .
@@ -41,7 +44,7 @@
 ### Salidas
 #### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e)  Detalle de pedido en mail.
 #### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e)   Detalle de compra y medios.
-
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Procesos principales del sistema:
 #### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e)  Interactuar con el sistema
