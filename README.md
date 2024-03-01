@@ -69,10 +69,13 @@
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Proyecto 2:   
-###
+## Proyecto 2: Aplicando las metodologías ágiles (SCRUM)
+### Consideraciones:
+#### Se le solicita al alumno el armado de un tablero utilizando alguno de los software vistos en clase (Asana, Trello, JIRA) para confeccionar un Product Backlog que reuna las actividades necesarias para realizar algún proceso en un área de IT a su elección. 
+####  Se debe simular la metodología aplicada en un sprint, por ello se solicita que  haya tareas en cada una de las etapas‎ del proceso de desarrollo.
+#### El tablero debe mostrar cada una de las actividades a realizar de manera detallada, por lo que debe contar con una descripción en cada PBI (Product Backlog Item) con el objetivo de agilizar y facilitar la comprensión de las tareas a desarrollar para el usuario asignado.
 
-
+en progreso de subirlo...
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
