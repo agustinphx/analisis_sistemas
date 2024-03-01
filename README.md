@@ -1,4 +1,5 @@
-# Análisis de Sistemas ![icons8-estadísticas-64](https://github.com/agustinphx/Estadisticada_aplicada/assets/58674979/31f161ae-1e6d-41de-baab-1d7179debfd2)
+# Análisis de Sistemas ![icons8-systems-64](https://github.com/agustinphx/analisis_sistemas/assets/58674979/7ad72cbe-8bbb-4852-9ede-457935c1ded9)
+
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Este repositorio contiene todos los proyectos realizados en la asignatura: "Análisis de Sistemas" de la Universidad Católica de Santa Fe.
 ## La asignatura está compuesta por los siguientes contenidos:
