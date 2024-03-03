@@ -1,7 +1,7 @@
 # Análisis de Sistemas ![icons8-systems-64](https://github.com/agustinphx/analisis_sistemas/assets/58674979/7ad72cbe-8bbb-4852-9ede-457935c1ded9)
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Este repositorio contiene todos los proyectos realizados en la asignatura: "Análisis de Sistemas" de la Universidad Católica de Santa Fe.
+## Este repositorio contiene los proyectos realizados en la asignatura: "Análisis de Sistemas" de la Universidad Católica de Santa Fe.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ## La asignatura está compuesta por los siguientes contenidos:
@@ -14,7 +14,7 @@
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Bases de datos.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Proyecto 1: Sistema de venta electrónica de bebidas 
+## Proyecto 1: Modelado inicial de un sistema de venta electrónica de bebidas 
 ### Consideraciones:
 #### Se necesita facilitar  a través de Internet, el acceso al catálogo de bebidas ofrecidas por la empresa, pero se requiere que los clientes estén registrados previamente para la compra. 
 #### Los clientes podrán opcionalmente efectuar pedidos de compra de una o más bebidas y cuando el cliente confirma el pedido deberá ingresar la forma de pago y el domicilio donde enviar el mismo. 
@@ -69,7 +69,7 @@
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Proyecto 2: Aplicando las metodologías ágiles (SCRUM)
+## Proyecto 2: Tablero para desarrollo de software aplicando las metodologías ágiles (SCRUM)
 ### Consideraciones:
 #### Se le solicita al alumno el armado de un tablero utilizando alguno de los software vistos en clase (Asana, Trello, JIRA) para confeccionar un Product Backlog con historias de usuario. 
 #### El tablero debe mostrar cada una de las actividades a realizar con las etiquetas correspondientes, teniendo en cuenta cada una de las etapas‎ del proceso de desarrollo de software en el marco de las metodologías ágiles.
@@ -86,8 +86,49 @@
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Proyecto 3:   
+## Proyecto 3: Modelado de casos de uso vinoteca Casacatar 
 ###
+### Consideraciones:
+#### Construir un diagrama de casos de uso que represente la funcionalidad del sistema.
+#### Identificar los actores del sistema.
+#### Enumerar los comportamientos del sistema como interacciones del mismo con el usuario.
+#### Seleccionar un caso de uso, expandirlo y generar su especificación.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### Diagrama de casos de uso (UML)
+![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/fd20d34e-41bb-4243-98d7-3844fb138b6c)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+### Actores del sistema
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Cliente: Representa a los usuarios que realizan pedidos de productos.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Cliente mayorista: Representa a los clientes que son mayoristas y reciben descuentos en sus compras.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Usuario Casacatar: Representa al personal de las empresas Casacatar y Distribuidora Dupont S.A. encargado de gestionar los pedidos y la información de los clientes.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Sistema inventario: Sistema de inventario representa el sistema interno que realiza el seguimiento de los productos disponibles y su ubicación en los depósitos y sucursales
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+### Comportamientos del Sistema
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Gestionar clientes: Permite al empleado registrar a un nuevo cliente en el sistema, ingresando su información personal como nombre, dirección y número de teléfono. Se asigna un identificador único al cliente.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Consultar información del cliente: Permite al empleado acceder a la información de un cliente, como nombre, dirección, número de teléfono y descuentos (en caso de ser cliente mayorista).
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Gestionar pedidos: Permite al empleado gestionar los pedidos seleccionando los artículos que desean comprar. El sistema registra el pedido con un número único y recopila información como el cliente responsable del pedido, la fecha de pedido, el modo de envío y el estado del pedido.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Consultar pedido: Permite al empleado o al cliente verificar el estado actual de un pedido, incluyendo si ha sido procesado, enviado o entregado.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Modificar pedido: Permite al empleado, cliente o al cliente mayorista modificar un pedido existente.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Realizar pedido: Permite al cliente o al cliente mayorista crear un nuevo pedido.El cliente selecciona los productos e indica la cantidad para concretar el pedido.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+### Especificaciones
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/> Caso de uso: Consultar a la información de un cliente.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Actor: Usuario Casacatar.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Objetivo: Consultar la información de un cliente.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Precondiciones: El empleado debe haber iniciado sesión en el sistema.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Poscondiciones: El empleado visualiza la información del cliente seleccionado.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Flujo de datos predeterminado:  El empleado selecciona la opción "Consultar Información del Cliente" en el sistema: el sistema muestra una lista de clientes registrados O  el empleado selecciona un cliente de la lista O el sistema muestra la información detallada del cliente, incluyendo nombre, dirección, número de teléfono y descuentos (en caso de ser cliente mayorista).
+#### Flujo de datos alternativo: Si no hay clientes registrados en el sistema: El sistema muestra un mensaje indicando que no hay clientes registrados O el flujo principal de eventos termina.
+
+
+
+
+
+
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
