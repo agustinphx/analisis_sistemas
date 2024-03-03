@@ -75,7 +75,10 @@
 #### El tablero debe mostrar cada una de las actividades a realizar con las etiquetas correspondientes, teniendo en cuenta cada una de las etapas‎ del proceso de desarrollo de software en el marco de las metodologías ágiles.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### [Tablero realizado en Trello](https://trello.com/invite/b/W41d3Fd9/ATTIacbc494ebfb7f791f63eea8071f79940CBA43E31/analisis-de-sistemas-ucsf)
-![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/2f588cab-f6a4-4989-a4c2-d92235b9e232)
+![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/08fda5d8-c864-41f3-8fd8-fdf8f5829922)
+#### Este tablero tiene como objetivo canalizar las tareas a realizar para diversas áreas: Finanzas, Ventas, Compras, RRHH en base a las necesidades del negocio, para ello armé 12 Product Backlog Items los cuales están distribuidos en cada una de las etapas del desarrollo de software simulando un sprint.
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Spike de un requerimiento
 ![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/aa02d74a-6f9a-486f-b697-5a4c1b21ed1b)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
