@@ -77,7 +77,7 @@
 ### [Tablero realizado en Trello](https://trello.com/invite/b/W41d3Fd9/ATTIacbc494ebfb7f791f63eea8071f79940CBA43E31/analisis-de-sistemas-ucsf)
 ![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/2f588cab-f6a4-4989-a4c2-d92235b9e232)
 ### Spike de un requerimiento
-![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/0e70cd35-fe92-446f-a784-85af71e2ab76)
+![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/aa02d74a-6f9a-486f-b697-5a4c1b21ed1b)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
