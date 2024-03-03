@@ -71,11 +71,15 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Proyecto 2: Aplicando las metodologías ágiles (SCRUM)
 ### Consideraciones:
-#### Se le solicita al alumno el armado de un tablero utilizando alguno de los software vistos en clase (Asana, Trello, JIRA) para confeccionar un Product Backlog que reuna las actividades necesarias para realizar algún proceso en un área de IT a su elección. 
-####  Se debe simular la metodología aplicada en un sprint, por ello se solicita que  haya tareas en cada una de las etapas‎ del proceso de desarrollo.
-#### El tablero debe mostrar cada una de las actividades a realizar de manera detallada, por lo que debe contar con una descripción en cada PBI (Product Backlog Item) con el objetivo de agilizar y facilitar la comprensión de las tareas a desarrollar para el usuario asignado.
+#### Se le solicita al alumno el armado de un tablero utilizando alguno de los software vistos en clase (Asana, Trello, JIRA) para confeccionar un Product Backlog con historias de usuario. 
+#### El tablero debe mostrar cada una de las actividades a realizar con las etiquetas correspondientes, teniendo en cuenta cada una de las etapas‎ del proceso de desarrollo de software en el marco de las metodologías ágiles.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### [Tablero realizado en Trello](https://trello.com/invite/b/W41d3Fd9/ATTIacbc494ebfb7f791f63eea8071f79940CBA43E31/analisis-de-sistemas-ucsf)
+![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/2f588cab-f6a4-4989-a4c2-d92235b9e232)
+### Spike de un requerimiento
+![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/0e70cd35-fe92-446f-a784-85af71e2ab76)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-en progreso de subirlo...
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
