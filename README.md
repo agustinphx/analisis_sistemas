@@ -126,7 +126,40 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-## Consultas en bases de datos (SQL)
+
+### Proyecto: Modelado de procesos para empresa logística
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### Consideraciones:
+#### Construir un diagrama de bloques para las entradas y salidas del sistema.
+#### Identificar archivos de entrada y salida.
+#### Generar un diagrama de interdependencia sectorial que considere el flujo de las operaciones teniendo en cuenta al cliente, vendedor y la sucursal de una organización logística.
+#### Identificar las actividades que se realicen de forma manual y las que utilizan recursos informáticos.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+### Diagrama de bloques
+![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ddca33b9-7734-4d40-ada6-7f1a6ec4f209)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+### Diagrama de interdependencia sectorial  
+![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/f2519801-4fca-4a55-a9f6-e0271f6a0c34)
+
+### Actividades manuales:
+#### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e) Vendedor ingresa datos de envío para validaros.
+#### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e) Vendedor ofrece distintas alternativas de envío al cliente
+#### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e) Vendedor da de alta el envío.
+#### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e) Vendedor solicita el pago del envío. Oportunidad de mejora: Podría generarse automáticamente el pago mediante una procesadora de pagos generando un QR para que el cliente abone.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+### Actividades con recursos informáticos:
+#### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e) Confirmar datos postales mediante un sistema de geolocalización.
+#### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e) Confirmar envío, luego de dar de alta el envío en base a la preferencia del tipo de envío seleccionado por el cliente.
+#### ![icons8-flecha-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/ae37e646-f5fa-4d6d-9bea-85f043a4c84e) Asignar guía de envío, luego de confirmar el envío.
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎
+## Bases de datos (SQL)
 ###
 #### Leer la base de datos y consultar la tabla de películas, seleccionando las que tengan los registros PG-13, NC-17 para el campo rating. 
 ![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/2b40e8f5-8a20-45e5-b04d-3b9abea9f24a)
@@ -145,6 +178,20 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
+## Herramientas utilizadas
+## Draw.io ![draw](https://user-images.githubusercontent.com/58674979/126081442-e83d9ccc-14c9-4ff8-8dc5-9f300be169f0.png)
+https://app.diagrams.net/
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+## MySQL ![icons8-mysql-24](https://github.com/agustinphx/analisis_sistemas/assets/58674979/245e9af2-b4a5-4602-a610-2ffe3025aaf2)
+https://www.mysql.com/ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+## Trello  ![icons8-trello-48](https://github.com/agustinphx/analisis_sistemas/assets/58674979/8f9ad317-d027-4b86-952d-fbba57d8e607)
+https://trello.com/es
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Bibliografia: 
 #### Kendall Kenneth y Kendall Julie. “Análisis y Diseño de Sistemas” (8va Ed). Prentice Hall, 2011, México. 
 #### SOMMERVILLE, Ian. (Año 2011) “INGENIERÍA DE SOFTWARE”. 9ª Edición. Pearson.
