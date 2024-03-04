@@ -5,16 +5,16 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ## La asignatura está compuesta por los siguientes contenidos:
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción al Análisis de Sistemas.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Procesos de Desarrollo de Software.
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción al análisis de sistemas.
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Procesos de desarrollo de software.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de requerimientos.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Metodologías ágiles.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis y diseño orientados a objetos.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción al lenguaje unificado de modelado, UML.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Bases de datos.
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción a las bases de datos.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Proyecto 1: Modelado inicial de un sistema de venta electrónica de bebidas 
+## Proyecto: Modelado de contexto de un sistema de venta electrónica de bebidas 
 ### Consideraciones:
 #### Se necesita facilitar  a través de Internet, el acceso al catálogo de bebidas ofrecidas por la empresa, pero se requiere que los clientes estén registrados previamente para la compra. 
 #### Los clientes podrán opcionalmente efectuar pedidos de compra de una o más bebidas y cuando el cliente confirma el pedido deberá ingresar la forma de pago y el domicilio donde enviar el mismo. 
@@ -69,7 +69,7 @@
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Proyecto 2: Tablero para desarrollo de software aplicando las metodologías ágiles (SCRUM)
+## Proyecto: Tablero para desarrollo de software aplicando las metodologías ágiles (SCRUM)
 ### Consideraciones:
 #### Se le solicita al alumno el armado de un tablero utilizando alguno de los software vistos en clase (Asana, Trello, JIRA) para confeccionar un Product Backlog con historias de usuario. 
 #### El tablero debe mostrar cada una de las actividades a realizar con las etiquetas correspondientes, teniendo en cuenta cada una de las etapas‎ del proceso de desarrollo de software en el marco de las metodologías ágiles.
@@ -86,7 +86,7 @@
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Proyecto 3: Modelado de casos de uso vinoteca Casacatar 
+## Proyecto: Modelado de casos de uso vinoteca Casacatar
 ###
 ### Consideraciones:
 #### Construir un diagrama de casos de uso que represente la funcionalidad del sistema.
@@ -106,7 +106,7 @@
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Sistema inventario: Sistema de inventario representa el sistema interno que realiza el seguimiento de los productos disponibles y su ubicación en los depósitos y sucursales
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-### Comportamientos del Sistema
+### Comportamientos del sistema
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Gestionar clientes: Permite al empleado registrar a un nuevo cliente en el sistema, ingresando su información personal como nombre, dirección y número de teléfono. Se asigna un identificador único al cliente.
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Consultar información del cliente: Permite al empleado acceder a la información de un cliente, como nombre, dirección, número de teléfono y descuentos (en caso de ser cliente mayorista).
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Gestionar pedidos: Permite al empleado gestionar los pedidos seleccionando los artículos que desean comprar. El sistema registra el pedido con un número único y recopila información como el cliente responsable del pedido, la fecha de pedido, el modo de envío y el estado del pedido.
@@ -123,10 +123,23 @@
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Poscondiciones: El empleado visualiza la información del cliente seleccionado.
 #### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Flujo de datos predeterminado:  El empleado selecciona la opción "Consultar Información del Cliente" en el sistema: el sistema muestra una lista de clientes registrados O  el empleado selecciona un cliente de la lista O el sistema muestra la información detallada del cliente, incluyendo nombre, dirección, número de teléfono y descuentos (en caso de ser cliente mayorista).
 #### Flujo de datos alternativo: Si no hay clientes registrados en el sistema: El sistema muestra un mensaje indicando que no hay clientes registrados O el flujo principal de eventos termina.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
+## Proyecto: Consultas en bases de datos (SQL)
+###
+#### Leer la base de datos y consultar la tabla de películas, seleccionando las que tengan los registros PG-13, NC-17 para el campo rating. 
+![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/2b40e8f5-8a20-45e5-b04d-3b9abea9f24a)
 
+#### Armar un TOP 3 con las películas con mayor duración y renombrar los campos relevantes
+![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/3fc20b74-4e80-4161-b78b-f64f9db5c571)
 
+#### De la tabla de pagos, traer el ticket promedio.
 
+#### Modificar detalle de una categoría dada.
+
+#### Eliminar un producto dado.
+#### 
 
 
 
