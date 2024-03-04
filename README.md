@@ -126,21 +126,20 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-## Proyecto: Consultas en bases de datos (SQL)
+## Consultas en bases de datos (SQL)
 ###
 #### Leer la base de datos y consultar la tabla de películas, seleccionando las que tengan los registros PG-13, NC-17 para el campo rating. 
 ![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/2b40e8f5-8a20-45e5-b04d-3b9abea9f24a)
 
-#### Armar un TOP 3 con las películas con mayor duración y renombrar los campos relevantes
+#### Armar un TOP 3 con las películas con mayor duración y renombrar los campos relevantes.
 ![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/3fc20b74-4e80-4161-b78b-f64f9db5c571)
 
-#### De la tabla de pagos, traer el ticket promedio.
+#### Actualizar la tabla de películas añadiendo alguna a su elección en caso que haya índices nulos.
+![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/a49f217c-30f8-4262-86c6-f5f2a07a10bb)
 
-#### Modificar detalle de una categoría dada.
 
-#### Eliminar un producto dado.
-#### 
-
+#### Para cada cliente, traer el monto promedio teniendo en cuenta los datos provienen de dos tablas diferentes.
+![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/e9e19644-e99b-4207-9fb5-0069551e3a9b)
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
