@@ -174,7 +174,7 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
-#### El gerente de operaciones desea conocer cuáles son los meses de cada año donde más se vendió.
+#### El gerente de operaciones desea conocer las ventas mensuales para cada año.
 ![venta](https://github.com/user-attachments/assets/2c5f4946-58cd-4a96-b171-e222912d7653)
 
 ![venta1](https://github.com/user-attachments/assets/bb751e18-1e08-42c3-9f9b-b911e0383193)
