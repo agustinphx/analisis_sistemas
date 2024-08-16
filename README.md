@@ -163,16 +163,53 @@
 ###
 #### Leer la base de datos y consultar la tabla de películas, seleccionando las que tengan los registros PG-13, NC-17 para el campo rating. 
 ![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/2b40e8f5-8a20-45e5-b04d-3b9abea9f24a)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 #### Armar un TOP 3 con las películas con mayor duración y renombrar los campos relevantes.
 ![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/3fc20b74-4e80-4161-b78b-f64f9db5c571)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 #### Actualizar la tabla de películas añadiendo alguna a su elección en caso que haya índices nulos.
 ![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/a49f217c-30f8-4262-86c6-f5f2a07a10bb)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
-#### Para cada cliente, traer el monto promedio teniendo en cuenta los datos provienen de dos tablas diferentes.
+#### El gerente de operaciones desea conocer cuáles son los meses de cada año donde más se vendió.
+![venta](https://github.com/user-attachments/assets/2c5f4946-58cd-4a96-b171-e222912d7653)
+
+![venta1](https://github.com/user-attachments/assets/bb751e18-1e08-42c3-9f9b-b911e0383193)
+
+###  ‎ ‎ ‎ ‎
+
+
+#### Se busca conocer obtener el monto promedio de venta para cada cliente.
 ![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/e9e19644-e99b-4207-9fb5-0069551e3a9b)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+
+####  Obtener el top 3 de clientes que más peliculas rentaron que provengan del store nro 2 con un rating PG-13.
+![cli](https://github.com/user-attachments/assets/2fa2a098-3335-42dd-a2fe-84682dd2a8ac)
+
+![cli1](https://github.com/user-attachments/assets/2b610efd-bc92-42b8-9efc-8458296bd18c)
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+####  Identificar cuales son los 4 actores que más peliculas rodaron, mostrando el nombre y apellido en un solo campo.
+![act](https://github.com/user-attachments/assets/fdb4d404-244c-495f-85ee-f0395563bd29)
+
+![act1](https://github.com/user-attachments/assets/5e488808-a2a9-4a6a-8910-f0ee3c824087)
+
+###  ‎ ‎ ‎ ‎
+
+
+#### Una empresa dedicada a la comercialización de desayunos y meriendas, busca conocer cuáles son los costos promedios mensuales por cada uno de los pedidos que le fueron entregados. Para ello se solicita:
+#### Mediante una columna 'mes_entrega' obtener el dato para el mes completo con la sumatoria de todos los registros correspondientes calculados por fila.
+#### Obtener los promedios mas elevados en una columna 'costo_promedio' antes de Septiembre 2018.
+#### Se recomienda utilizar una Common Table Expressions para su desarrollo.
+![costo_mensual](https://github.com/user-attachments/assets/0e8eeaee-0af1-4580-9b21-7f9d6a291cb9)
+![outcome costo_mensual](https://github.com/user-attachments/assets/e59c4f48-c455-4501-96b7-e357413f4bf2)
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
