@@ -182,7 +182,7 @@
 ###  ‎ ‎ ‎ ‎
 
 
-#### Se busca conocer obtener el monto promedio de venta para cada cliente.
+#### Se busca conocer obtener el monto promedio de compra por cada cliente.
 ![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/e9e19644-e99b-4207-9fb5-0069551e3a9b)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
