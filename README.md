@@ -1,17 +1,16 @@
 # Análisis de Sistemas ![icons8-systems-64](https://github.com/agustinphx/analisis_sistemas/assets/58674979/7ad72cbe-8bbb-4852-9ede-457935c1ded9)
 
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## Este repositorio contiene los proyectos realizados en la asignatura: "Análisis de Sistemas" de la Universidad Católica de Santa Fe.
+Este repositorio contiene los proyectos realizados en la asignatura: "Análisis de Sistemas" de la Universidad Católica de Santa Fe.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-## La asignatura está compuesta por los siguientes contenidos:
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción al análisis de sistemas.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Procesos de desarrollo de software.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de requerimientos.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Metodologías ágiles.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis y diseño orientados a objetos.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción al lenguaje unificado de modelado, UML.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción a las bases de datos.
+### La asignatura está compuesta por los siguientes contenidos:
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción al análisis de sistemas.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Procesos de desarrollo de software.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis de requerimientos.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Metodologías ágiles.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Análisis y diseño orientado a objetos.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Introducción al lenguaje unificado de modelado, UML.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Manipulación de bases de datos.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Proyecto: Modelado de contexto de un sistema de venta electrónica de bebidas 
