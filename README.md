@@ -225,10 +225,3 @@ https://www.mysql.com/
 
 ## Trello  ![icons8-trello-48](https://github.com/agustinphx/analisis_sistemas/assets/58674979/8f9ad317-d027-4b86-952d-fbba57d8e607)
 https://trello.com/es
-
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### Bibliografia: 
-#### Kendall Kenneth y Kendall Julie. “Análisis y Diseño de Sistemas” (8va Ed). Prentice Hall, 2011, México. 
-#### SOMMERVILLE, Ian. (Año 2011) “INGENIERÍA DE SOFTWARE”. 9ª Edición. Pearson.
-#### Cockburn, A. (2006). - Agile Software Development: The Cooperative Game (2nd Edition).
