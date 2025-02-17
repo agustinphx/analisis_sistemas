@@ -1,6 +1,6 @@
 # Análisis de Sistemas ![icons8-systems-64](https://github.com/agustinphx/analisis_sistemas/assets/58674979/7ad72cbe-8bbb-4852-9ede-457935c1ded9)
 
-Este repositorio contiene los proyectos realizados en la asignatura: "Análisis de Sistemas" de la Universidad Católica de Santa Fe.
+Este repositorio contiene proyectos prácticos realizados en la asignatura: "Análisis de Sistemas" de la Universidad Católica de Santa Fe.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### La asignatura está compuesta por los siguientes contenidos:
