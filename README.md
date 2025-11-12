@@ -73,7 +73,7 @@ Este repositorio contiene las actividades prácticas realizados en la asignatura
 #### Se le solicita al alumno el armado de un tablero utilizando alguno de los software vistos en clase (Asana, Trello, JIRA) para confeccionar un Product Backlog con historias de usuario. 
 #### El tablero debe mostrar cada una de las actividades a realizar con las etiquetas correspondientes, teniendo en cuenta cada una de las etapas‎ del proceso de desarrollo de software en el marco de las metodologías ágiles.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### [Tablero realizado en Trello](https://trello.com/invite/b/W41d3Fd9/ATTIacbc494ebfb7f791f63eea8071f79940CBA43E31/analisis-de-sistemas-ucsf)
+### Tablero realizado en Trello
 ![image](https://github.com/agustinphx/analisis_sistemas/assets/58674979/08fda5d8-c864-41f3-8fd8-fdf8f5829922)
 #### Este tablero tiene como objetivo canalizar las tareas a realizar para diversas áreas: Finanzas, Ventas, Compras, RRHH en base a las necesidades del negocio, para ello armé 12 Product Backlog Items los cuales están distribuidos en cada una de las etapas del desarrollo de software simulando un sprint.
 
